@@ -1,0 +1,17 @@
+# API Keys & Secrets
+.env
+.env.*
+*.env
+
+# Riwayat prompt & proyek lokal
+sessions/
+*.log
+
+# Lingkungan Python & Sistem Mac
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.vscode/
+.idea/
